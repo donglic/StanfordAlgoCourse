@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore all .xml files
+*.xml
+
+# Ignore JetBrains IDE config directory
+.idea/
+
 # C extensions
 *.so
 
